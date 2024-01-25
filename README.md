@@ -46,56 +46,6 @@ You can install the package directly from PyPI using `pip`. Make sure you have P
 pip install gaussian_theorem
 ```
 
-
-Certainly! Below is an updated README file with a focus on providing clear instructions for users to download, install, and use your package both in the Python 3 console and within their code:
-
-markdown
-Copy code
-# Gaussian Theorem
-
-**Gaussian Theorem: A Python Package for Gaussian and Binomial Distributions**
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-  - [From PyPI](#from-pypi)
-  - [From Source](#from-source)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Examples](#examples)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-- [Contact](#contact)
-
-## Introduction
-
-Gaussian Theorem is a Python package that provides classes for working with Gaussian and Binomial distributions. This package is designed to make it easy for developers and data scientists to perform calculations, visualize distributions, and integrate statistical functionality into their projects.
-
-## Features
-
-- **Gaussian Distribution:**
-  - Calculate mean and standard deviation.
-  - Generate probability density function (PDF) values.
-  - Perform distribution addition.
-
-- **Binomial Distribution:**
-  - Calculate mean and standard deviation from given probabilities and sample sizes.
-  - Visualize distributions with histograms.
-  - Plot PDFs for Binomial distributions.
-
-## Installation
-
-### From PyPI
-
-You can install the package directly from PyPI using `pip`. Make sure you have Python 3.x installed on your machine.
-
-```bash
-pip install gaussian_theorem
-```
 ### From Source
 
 If you prefer installing from the source, follow these steps:
