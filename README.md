@@ -1,8 +1,6 @@
-# Gaussian Theorem
+## GAUSSIAN THEOREM
 
 **Gaussian Theorem: A Python Package for Gaussian and Binomial Distributions**
-
-## GAUSSIAN THEOREM
 
 ## Table of Contents
 
@@ -43,7 +41,7 @@ Gaussian Theorem is a Python package that provides classes for working with Gaus
 You can install the package directly from PyPI using `pip`. Make sure you have Python 3.x installed on your machine.
 
 ```bash
-pip install gaussian_theorem
+pip install gaussian_theorems
 ```
 
 ### From Source
@@ -70,7 +68,7 @@ If you prefer installing from the source, follow these steps:
 
 ```python
 # Example code demonstrating how to use the Gaussian class
-from Gaussian_Theorem.gaussiandistribution import Gaussian
+from Gaussian_Theorems.gaussiandistribution import Gaussian
 
 # Create a Gaussian distribution instance
 gaussian = Gaussian(25, 4)
@@ -94,7 +92,7 @@ gaussian.plot_histogram_pdf()
 
 ```lua
 GAUSSIAN_THEOREM/
-|-- Gaussian_Theorem/
+|-- Gaussian_Theorems/
 |   |-- __init__.py
 |   |-- gaussiandistribution.py
 |   |-- generaldistribution.py

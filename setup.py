@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    name="gaussian_theorem",
+    name="gaussian_theorems",
     version="1.1",  # Update to a new version number
     description="Gaussian and Binomial distributions",
     long_description=long_description,
